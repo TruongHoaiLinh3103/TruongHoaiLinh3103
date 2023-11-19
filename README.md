@@ -6,17 +6,14 @@
   <a href="https://www.instagram.com/eagleremlinh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:truonghoailinh3103@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.facebook.com/Anikey3103" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="tel:0356381315" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Phone&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
   <a href="https://zalo.me/g/furtzp976" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Zalo&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="signal logo"  />
+  </a>
+  <a href="mailto:truonghoailinh3103@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
@@ -50,12 +47,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TruongHoaiLinh3103/TruongHoaiLinh3103/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/sNUWF7fAUP2q4/giphy.gif"  />
 </div>
@@ -65,5 +56,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/TruongHoaiLinh3103/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
